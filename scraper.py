@@ -13,18 +13,17 @@ table = soup.find('section', attrs = {'aria-label':'Search Results'})
 
 #print(table)
    
-for row in table.findAll('div', 
-                         attrs = {'class':'_3MPUOLE'}): 
+for row in table.findAll('article', attrs = {'data-automation':'normalJob'}): 
     
-    print(row)
+    #print(row)
     quote = {} 
-    quote['url'] = row.a['href'] 
- 
+    quote['job_names'] = row.h1.text
     quotes.append(quote) 
    
+#print(quotes)
 filename = 'inspirational_quotes.csv'
-with open(filename, 'w', newline='') as f: 
-    w = csv.DictWriter(f,['url']) 
+with open(filename, 'w', newline='\n') as f: 
+    w = csv.DictWriter(f,['job_names']) 
     w.writeheader() 
     for quote in quotes: 
         w.writerow(quote)
