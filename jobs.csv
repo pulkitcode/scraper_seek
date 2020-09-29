@@ -1,21 +1,21 @@
-Title,Company,Listing Date,Location
-Software Engineer,Harrison McMillan,8h ago,Adelaide
-Software Engineer,Just Digital People,11h ago,Brisbane
-Software Engineer,Plenti,14h ago,Sydney
-"Software Engineer, C++ application development",CSIRO,6d ago,Melbourne
-Junior Data Engineer,Capgemini Australia Pty Ltd,4d ago,Melbourne
-Software Engineer,Rubix Solutions Pty Ltd,5d ago,ACT
-Software Engineer,Coviu,8d ago,Sydney
-Software Engineer,Ambition,6d ago,Sydney
-Junior Firmware Engineer,The Onset,9d ago,Sydney
-Junior Software Developer,Department of Justice and Community Safety,9d ago,Melbourne
-Software Engineer,Boeing Defence Australia,4d ago,Brisbane
-Full Stack Developer,Hydrogen Group Pty Ltd,4d ago,Melbourne
-3x Mid Level Software Engineers - .Net / C# (.Net core),Naviro,2d ago,Sydney
-Software Engineer,Fireball.International,8d ago,Sunshine Coast
-Software Engineer,Fleet Space Technologies,7d ago,Adelaide
-Graduate Embedded Software Engineer,Inovor Technologies Pty Ltd,5d ago,Adelaide
-Software Developer (Backend),Butterfly Systems,4d ago,Sydney
-Software Engineer,Sirius Technology Sydney part of Sirius People Pty Ltd,20d ago,Sydney
-C++ Software Engineers,Sideshow Consulting,4d ago,Sydney
-Software Engineer,Elbit Systems of Australia,5d ago,Melbourne
+Title,Company,Listing Date,Location,Key Points,Short Description
+Software Engineer,Harrison McMillan,8h ago,Adelaide,"['Graduate, mid-level and team leadership roles', 'Exciting and innovative projects', 'Work with a wide range of technology stacks']","help our clients build cutting edge systems using technologies like Artificial Intelligence, Augmented Reality, Cloud Computing, IoT and DevOps"
+Software Engineer,Just Digital People,11h ago,Brisbane,[],An exciting opportunity with a large and growing company
+Software Engineer,Plenti,15h ago,Sydney,"['Extremely quickly growing Fintech', 'Unparalleled career opportunities', 'Work with the latest technology']",Be a part of the Peer2Peer finance revolution by joining a new type of lender making a positive difference.
+"Software Engineer, C++ application development",CSIRO,6d ago,Melbourne,"['Develop commercial-quality software using modern C++', 'Work life balance with flexible working arrangements', 'Join CSIRO – Australia’s premier science & technology research organisation']",Be part of a multi-disciplinary team of software engineers and scientists producing advanced scientific software for real-world applications.
+Junior Data Engineer,Capgemini Australia Pty Ltd,4d ago,Melbourne,"['Immediate start for the right candidate', 'Big data and cloud technologies', 'Excellent career development plan']",Set your career in joining a global technology organisation - Capgemini
+Software Engineer,Rubix Solutions Pty Ltd,5d ago,ACT,"['Software Engineer/Developer', 'Canberra', 'NV1/NV2 Clearance required']",Rubix are currently seeking security cleared Software Engineers for long term contract assignments in Canberra.
+Software Engineer,Coviu,8d ago,Sydney,[],"Come and build the app store for digital healthcare, in a new team at a venture-backed Aussie startup with global ambitions."
+Software Engineer,Ambition,6d ago,Sydney,"[""Permanent full time opportunity for recent graduates with 1-2 years' experience"", 'Work for an industry leader in capital markets', 'Competitive salary package with other perks']",A great opportunity for a recent graduate to join a global leading capital market company and work with cutting edge technology.
+Junior Firmware Engineer,The Onset,9d ago,Sydney,"['A personal training plan, budget for further education and support from Seniors', 'See your work get implemented into real products', 'Embedded C, Assembly, hardware bring-up, bootloaders, memory management']",You're a Jnr or graduate Firmware Engineer that wants to put into practice your work with C and Assembly on a RTOS.
+Junior Software Developer,Department of Justice and Community Safety,9d ago,Melbourne,[],"An exciting full time, ongoing opportunity is now available for an experienced Junior Software Developer in Technology Solutions."
+Software Engineer,Boeing Defence Australia,4d ago,Brisbane,"['Study assistance', 'Employee Incentive Program', 'Salary packaging']",Work for a company that employs the best talent to develop and deliver world class capabilities and systems to protect Australia and interests
+Full Stack Developer,Hydrogen Group Pty Ltd,4d ago,Melbourne,[],Full Stack Developer
+3x Mid Level Software Engineers - .Net / C# (.Net core),Naviro,2d ago,Sydney,[],We are going through a period of rapid scaling and require Software Engineers who are across .net/c# and micro-services architecture with AWS exp
+Software Engineer,Fireball.International,8d ago,Sunshine Coast,"['Dynamic, flexible and semi-remote team.', 'Agile approach that focuses on delivery.', 'A company where you feel supported, challenged, significant and valued.']",Join the software team at Fireball. Building a real-time mapping and intelligence system to detect bush fires within minutes of ignition.
+Software Engineer,Fleet Space Technologies,7d ago,Adelaide,"['Space industry', 'Collaborative team environment']",A great opportunity to join our product development team and help build innovative software solutions.
+Graduate Embedded Software Engineer,Inovor Technologies Pty Ltd,5d ago,Adelaide,"[""Work in the Space Industry with Australia's leading satellite manufacturer"", 'Innovative and groundbreaking projects', ""Located in Australia's first innovation neighbourhood - Lot Fourteen, Adelaide""]","Are you ready to begin your career as a Graduate Embedded Software Engineer in the space industry, building the next generation of nano-satellites?"
+Software Developer (Backend),Butterfly Systems,4d ago,Sydney,"['Healthcare technology', 'Nice and quiet work environment', 'Highly productive team']",Butterfly Systems is a Chatswood based innovative healthcare software company looking for talented developer with experience in backend development.
+Software Engineer,Sirius Technology Sydney part of Sirius People Pty Ltd,20d ago,Sydney,[],Global solution provide has a permanent opportunity for an experienced Java Engineer. You will need local market experience predominantly in Java 7.
+C++ Software Engineers,Sideshow Consulting,4d ago,Sydney,"['Sophisticated technology', 'Excellent job security', 'Modern C++, Visual Studio, Linux, Network Programming, Real-time Systems']",Two new roles with a fast growing software engineering team developing high-tech products for international markets.
+Software Engineer,Elbit Systems of Australia,5d ago,Melbourne,"['Dynamic and innovative team environment.', 'Contribute to the success of the Australian Defence Force.', 'Modern, well appointed office space in Port Melbourne']","As our Software Engineer, you will be will be responsible for designing new solutions based on Enterprise Software Infrastructure created by ELSA."
